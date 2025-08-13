@@ -24,4 +24,4 @@
 
 ## SAMPLE_DATA
 
-![SAMPLE_DATA](https://github.com/Abhijeet7400/Marketing-Strategy-Visualization-Presentation-Dashboard/blob/main/3rd%20dash%20data.png)
+![SAMPLE_DATA](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20data.png)
