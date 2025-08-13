@@ -1,8 +1,8 @@
 ## OVERVIEW DASHBOARD
 
-![DASHBORD](https://github.com/Abhijeet7400/Marketing-Strategy-Visualization-Presentation-Dashboard/blob/main/3rd%20dash%20image%201.png)
+![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%201.png)
 
-![DASHBORD](https://github.com/Abhijeet7400/Marketing-Strategy-Visualization-Presentation-Dashboard/blob/main/3rd%20dash%20image%202.png)
+![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%202.png)
 
 ## MARKETING COST DASHBOARD
 
