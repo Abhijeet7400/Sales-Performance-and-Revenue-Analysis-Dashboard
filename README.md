@@ -16,11 +16,11 @@
 
 ![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%206%20revenue%20vs%20expenses.png)
 
-## SALES VOLUME DASHBOARD
+## PRODUCT TRANDS DASHBOARD
 
-![DASHBORD](https://github.com/Abhijeet7400/Marketing-Strategy-Visualization-Presentation-Dashboard/blob/main/3rd%20dash%20image%207%20sales%20volume.png)
+![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%207%20product%20trends.png)
 
-![DASHBORD](https://github.com/Abhijeet7400/Marketing-Strategy-Visualization-Presentation-Dashboard/blob/main/3rd%20dash%20image%208%20sales%20volume.png)
+![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%208%20product%20trends.png)
 
 ## SAMPLE_DATA
 
