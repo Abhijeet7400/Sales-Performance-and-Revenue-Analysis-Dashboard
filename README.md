@@ -1,4 +1,9 @@
-## OVERVIEW DASHBOARD
+# 📊 Sales Performance and Revenue Analysis in Excel
+
+An advanced and interactive **Sales Performance & Revenue Analysis Dashboard** built in Microsoft Excel.
+- This dashboard delivers real-time sales tracking, weekly & monthly performance insights, top seller highlights, and product trend analysis — all in a clean and professional interface.
+
+## 🖥️ OVERVIEW DASHBOARD
 
 ![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%201.png)
 
