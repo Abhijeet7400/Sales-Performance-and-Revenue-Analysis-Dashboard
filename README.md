@@ -3,6 +3,15 @@
 An advanced and interactive **Sales Performance & Revenue Analysis Dashboard** built in Microsoft Excel.
  This dashboard delivers real-time sales tracking, weekly & monthly performance insights, top seller highlights, and product trend analysis — all in a clean and professional interface.
 
+ ### 📌 Dashboard Purpose
+
+The Sales Performance and Revenue Analysis Dashboard acts as a centralized sales intelligence tool to:
+
+- Identify sales peaks and plan promotions accordingly
+- Maintain cost control while growing revenue
+- Focus on high-performing products while improving weaker ones
+- By integrating multiple filters, interactive charts, and visual KPIs, it enables data-driven decision-making for sales, inventory, and marketing strategies.
+
 ## 🖥️ OVERVIEW DASHBOARD
 
 ![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%201.png)
@@ -82,13 +91,4 @@ Radar chart showing performance across product categories A–E.
 
 - Theme switching automation (Day/Night mode)
 - Year/month data filter buttons
-
-### 📌 Dashboard Purpose
-
-The Sales Performance and Revenue Analysis Dashboard acts as a centralized sales intelligence tool to:
-
-- Identify sales peaks and plan promotions accordingly
-- Maintain cost control while growing revenue
-- Focus on high-performing products while improving weaker ones
-- By integrating multiple filters, interactive charts, and visual KPIs, it enables data-driven decision-making for sales, inventory, and marketing strategies.
 
