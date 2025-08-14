@@ -40,7 +40,7 @@ Radar chart showing performance across product categories A–E.
 - 🏆 Top Seller: Category C with 115,596 units sold.
 
 - ⚠️ Underperformers: Categories E (107,056) and D (106,356) — potential targets for marketing campaigns.
-- 
+ 
 ![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%207%20product%20trends.png)
 
 ![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%208%20product%20trends.png)
