@@ -9,7 +9,13 @@ An advanced and interactive **Sales Performance & Revenue Analysis Dashboard** b
 
 ![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%202.png)
 
-## WEEKLY SALES TRAND DASHBOARD
+## 📅 WEEKLY SALES TRAND DASHBOARD
+
+This section shows sales distribution across the week (Sunday to Saturday).
+
+- 📈 Peak Days: Tuesday (468K) and Wednesday (486K) dominate sales, suggesting mid-week promotions are effective.
+
+- 📉 Low Days: Saturday (63K) indicates opportunities for weekend-focused offers.
 
 ![DASHBORD](https://github.com/Abhijeet7400/Sales-Performance-and-Revenue-Analysis-Dashboard/blob/main/2nd%20dash%20image%203%20weekly%20sales%20trande.png)
 
